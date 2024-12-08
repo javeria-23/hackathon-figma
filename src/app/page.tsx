@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import TopHeader from "@/components/TopHeader";
 import Herosection from "@/components/Herosection";
 import Editors from "@/components/Editors";
